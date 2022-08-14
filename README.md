@@ -30,4 +30,3 @@ Now we are going to build the chatbot using Flask framework but first, let us se
 5.Predict the outcomes
 
 Deploy the model in the Flask app
-http://127.0.0.1:5000/
